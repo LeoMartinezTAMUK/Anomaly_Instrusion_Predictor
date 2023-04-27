@@ -443,6 +443,3 @@ the algorithms through a bar chart and heat maps.
 
 # Execute the code        
 main()
-
-# Note: Naive Bayes only performs well with L1-Based feature selection
-# Note: Python script is very lengthy, could possibly be split up into separate modules
