@@ -1,5 +1,5 @@
 # Program was created in Spyder 5.2.2 Anaconda with Python 3.9
-# Final Project Prototype/Template Cyber Intelligence CSEN 4370/5303
+# Created by: Leo Martinez III in Spring 2023
 
 # The program's primary function is to analyze labeled datasets of network traffic using supervised machine learning (ML) algorithms
 # The program will decide if a network traffic instance is an anomaly or normal based on the NSL-KDD dataset.
