@@ -1,11 +1,12 @@
 #Anomaly_Intrustion_Predictor
+
 Created by: Leo Martinez III in Spring 2023
 
 The following program is capable of analyzing network traffic with multiple different machine learning (ML) algorithms to determine whether or not it is malicious. The user can enter what algorithm(s) they want to test and the output will be the results of its performance.
 
 Dataset utilized: [NSL-KDD](https://www.unb.ca/cic/datasets/nsl.html)
 
-Program was created in Spyder 5.2.2 Anaconda with Python 3.9\n
+Program was created in Spyder 5.2.2 Anaconda with Python 3.9
 
 ***** Program is still under development and plans to be improved upon over time *****
 
