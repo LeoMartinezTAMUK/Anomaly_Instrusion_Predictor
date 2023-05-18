@@ -1,6 +1,10 @@
 #Anomaly_Intrustion_Predictor
 
-Created by: Leo Martinez III in Spring 2023
+Author: Leo Martinez III
+
+Contact: leo.martinez@students.tamuk.edu
+
+Created: Spring 2023
 
 The following program is capable of analyzing network traffic with multiple different machine learning (ML) algorithms to determine whether or not it is malicious. The user can enter what algorithm(s) they want to test and the output will be the results of its performance.
 
