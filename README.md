@@ -2,7 +2,7 @@
 
 Author: Leo Martinez III
 
-Contact: [Email Me](mailto:leo.martinez@students.tamuk.edu)
+Contact: [leo.martinez@students.tamuk.edu](mailto:leo.martinez@students.tamuk.edu)
 
 Created: Spring 2023
 
