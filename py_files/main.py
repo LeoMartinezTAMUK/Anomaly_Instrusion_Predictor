@@ -1,5 +1,5 @@
 # Package: intrustionDetector
-# File: main.py (contains main() method)
+# File: main.py (contains main() method) (use the local files in this folder to run the program)
 
 # Program was created in Spyder 5.2.2 Anaconda with Python 3.9
 
