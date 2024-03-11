@@ -1,4 +1,4 @@
-# Anomaly Itrustion Predictor using Machine Learning
+# Anomaly Intrustion Predictor using Machine Learning
 
 Author: Leo Martinez III
 
