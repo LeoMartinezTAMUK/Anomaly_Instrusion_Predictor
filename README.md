@@ -1,4 +1,4 @@
-# Anomaly_Intrustion_Predictor
+# Anomaly Itrustion Predictor using Machine Learning
 
 Author: Leo Martinez III
 
@@ -11,9 +11,6 @@ The following program is capable of analyzing network traffic with multiple diff
 Dataset utilized: [NSL-KDD](https://www.unb.ca/cic/datasets/nsl.html)
 
 Program was created in Spyder 5.2.2 Anaconda with Python 3.9
-
-***** Program is still under development and plans to be improved upon over time *****
-
 
 Classification of network traffic using machine learning (ML) is important for several reasons, including:
 
